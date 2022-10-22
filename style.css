@@ -1,0 +1,226 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.div0{
+    width: 100%;
+    height: 25px;   
+}
+div #applelogo{
+    position: fixed;
+    text-align: center;
+    background-color: black;
+    word-spacing: 30px; 
+    width: 100%; 
+    font-size: 13px;
+    height: 25px;
+    padding: 10px 0;
+    z-index: 100;
+}
+div #input{
+    width: 14px;
+}
+div #input3{
+    width: 17px;
+}
+div #anchor{
+    color: white;
+    text-decoration: none;
+}
+div #anchor2{
+    color: white;
+    word-spacing: 0px; 
+    text-decoration: none;
+}
+
+#div1{
+    position: relative;
+    background-image: url(./Images/iphone14pro/img3.jpg);
+    width: 100%;
+    height: 90vh;
+    z-index: 10;
+}
+
+.anchor a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #2997FF;
+}
+.anchor{
+    margin-top: 15px;
+}
+.text-container{
+    position: absolute;
+    top: 60px;
+    color: white;
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    font-size: 25px;
+    cursor: grab;
+}
+.div2{
+    width: 100%;
+    height: 100vh;
+    margin-bottom: 100px;
+    background-position: center;
+    background-image: url(./Images/iphone14/hero_iphone14_preorder__c4g2wjzuugqe_largetall.jpg);
+}
+
+.anchor2 a{
+    font-size: 18px;
+    text-decoration: none;
+    color: #2997FF;
+}
+.anchor2{
+    margin-top: 15px;
+}
+.text-container2{
+    margin-top: 50px;
+    top: 60px;
+    color: black;
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    font-size: 25px;
+    cursor: grab;
+}
+.center-heading3{
+    color: rgb(147, 141, 141);
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+
+
+#d3{
+    background-image: url(./Images/watch/hero_apple_watch_ultra__dtz0f3e8oscy_largetall.jpg);
+    width: 100%;
+    height: 100vh;
+    margin-top: 10px;
+    background-position: top;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 60px;
+}
+
+#p3{
+    font-size: 25px;
+    line-height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+}
+#p3:hover{
+    cursor: pointer;
+}
+
+.third-container{
+    margin-top: 35px;
+}
+
+.third-container , .fourth-container , .fifth-container{
+    height: 80vh;
+    width: 100%;
+    gap: 15px;
+    display: flex;
+}
+
+.left , .right{
+    margin: 0 auto;
+    width: 40%;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.first-heading:not(1){
+    font-size: 14px;
+}
+
+.links{
+    margin-top: 25px;
+}
+
+.links a{
+    font-size: 18px;
+    text-decoration: none;
+    color: #2997FF;
+    padding: 15px;
+}
+
+.text{
+    margin-top: 35px;
+}
+
+.third-container .left .second-heading{
+    font-size: 14px;
+}
+
+.third-container .left{
+    background-image: url(/Images/promos/img1.jpg);
+    color: white;
+}
+.third-container .right{
+    background-image: url(/Images/promos/img2.jpg);
+    color: white;
+}
+
+.fourth-container .left{
+    background-image: url(/Images/promos/img3.jpg);
+}
+.fourth-container .right{
+    background-image: url(/Images/promos/img4.jpg);
+}
+
+.fifth-container .left{
+    background-image: url(/Images/promos/img5.png);
+}
+.fifth-container .right{
+    background-image: url(/Images/promos/img6.jpg);
+}
+
+.poster{
+    position: relative;
+    margin: 50px auto;
+    width: 80%;
+    height: 90vh;
+    background-image: url(./Images/poster/1250x703.jpg);
+}
+#p10{
+    left: 100px;
+    bottom: 25px;
+    color: white;
+    position: absolute;
+}
+#div8{
+ 
+    width:100% ;
+    margin: 0 auto;
+    
+}
+#para{
+    padding-left: 300px;
+    font-size: 15px;
+    padding-top: 60px; 
+    background-color:#F5F5F7;
+    padding-bottom: 35px;
+    
+}
+#d99{
+    background-color:#F5F5F7;
+    
+    padding-top: 35px;
+}
+#table{
+margin: 0 auto;
+    width: 65%;
+    text-align: center;
+    padding-bottom: 45px;
+}
